@@ -25,8 +25,8 @@ VALUES
 INSERT INTO simplecrud_db.user
 (ID, EMAIL, FIRSTNAME, LASTNAME, PASSWORD, USERNAME, ADDRESS_ID)
 VALUES
-(1, 'e-mail', 'name', 'surname', '03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4', 'admin', '1'),
-(2, 'e-mail', 'name', 'surname', '03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4', 'user1', '2'),
+(1, 'e-mail', 'name', 'surname', '5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5', 'admin', '1'),
+(2, 'e-mail', 'name', 'surname', '5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5', 'user1', '2'),
 (3, 'e-mail', 'name', 'surname', '03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4', 'user2', '3'),
 (4, 'e-mail', 'name', 'surname', '03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4', 'user3', '4'),
 (5, 'e-mail', 'name', 'surnamer', '03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4', 'user4', '5'),
